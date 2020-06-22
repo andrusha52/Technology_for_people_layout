@@ -15,7 +15,7 @@ li {
   height: 1510px;
   margin-bottom: 160px;
   position: relative;
-  /* top: -20px; */
+  top: -20px;
   left: 0;
 }
 .header_container {
